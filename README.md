@@ -1,4 +1,4 @@
-# 🗄️ Working with RDS
+# Working with RDS
 
 Set up and manage Amazon RDS database instances.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series, designe
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000005-WorkingwithRDS/)**
+**[Start the workshop](https://vanhoangkha.github.io/000005-WorkingwithRDS/)**
 
 ## Prerequisites
 
